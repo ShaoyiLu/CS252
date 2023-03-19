@@ -104,13 +104,6 @@ COLLATZ_STEPS
 ; ************************** End your code here **************************
 
 
-
-
-; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-; !!!!!      DO NOT REMOVE OR MODIFY ANYTHING BELOW THIS LINE!        !!!!!
-; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
 ; MAIN SECTION
 ; ************
 ; Contains helper subroutines and testing code
