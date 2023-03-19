@@ -1,2 +1,2 @@
-# CS252
-Computer Engineering
+# Computer Engineering
+Assembly Language
