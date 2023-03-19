@@ -1,22 +1,3 @@
-; TO RECEIVE CREDIT you must certify your work
-; AND indicate which subroutines you've successfully completed.
-; Mark the boxes below [ ] by replacing the space with an X as in [X].
-; 
-; [X] I/we certify that the code added herein is my/our own authorship - 
-;     I/we have not used anyone else's code (in whole or in part) for
-;     my/our modifications, and I/we have not shared my/our code in any
-;     form with anyone else.
-; 
-; COMPLETE THE SUBROUTINES IN THIS ORDER:
-; [X] 1. subroutine MUL3ADD1 successfully completed
-; [X] 2. subroutine DIVIDEBY2 successfully completed
-; [X] 3. subroutine COLLATZ_STEPS successfully completed
-
-; -----------------------------------------------------
-; Copyright (c) 2022 Jim Skrentny - All Rights Reserved
-; Posting this publicly is prohibited.
-; -----------------------------------------------------
-
     .ORIG    x3000
     BRnzp TEST_BEGIN
 
