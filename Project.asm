@@ -1,9 +1,3 @@
-; Your Name: Shaoyi Lu
-; Partner's Name (if any):
-; (Both partner's must also submit a partners.txt file.)
-; Date: 12/12/2022
-
-
 ; TO RECEIVE CREDIT you must certify your work
 ; AND indicate which subroutines you've successfully completed.
 ; Mark the boxes below [ ] by replacing the space with an X as in [X].
